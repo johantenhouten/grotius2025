@@ -1,6 +1,6 @@
 # grotius2025
 
-![Microbit](https://github.com/johantenhouten/grotius2025/blob/main/photo/HC-SRO4.jpg)
+![Microbit](https://microbit-micropython.readthedocs.io/en/latest/_images/pinout.png)
 
 
 Dit zijn de opdrachten en hulpbestanden voor de module physical computing,  Havo 4 grotius college Delft. 
